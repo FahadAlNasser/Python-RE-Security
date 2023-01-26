@@ -1,0 +1,5 @@
+# Python-RE-Security
+This is similar to one of my repositories, the one called python-loop-and-list. 
+I wrote this code for my assignment in my python class on Google Drive by using the Google tool called "Google Colaboratory."
+The purpose of this assignment was to learn and practice regular expression security. So, I wrote this program to ask the user to create a password with specific numbers, letters, and symbols by using regular expression and if statements. Also, the required length for a password. Therefore, if the password matched the condition of the rule in order to create a password, the program result will show that the password is strong. On the other hand, If the password does not follow one of few conditions, it will respond that the password is weak, and it will specify that the user is required to include numbers, letters, and special characters. The program behaves like when a user creates a password on any websites.
+The link to my Google Drive: https://colab.research.google.com/drive/1_dVkKVrsQBjcM5-Gh4eT0vnfIcFq9Sbx?usp=sharing
